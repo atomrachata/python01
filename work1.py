@@ -1,0 +1,11 @@
+print("Hello M.6/11")
+print("My name is Rachata Hongkratok")
+print("No.6")
+print("age :",17,"ปี")
+print("ครอบครัวของผมมี4คน")
+print("สัญชาติไทย")
+print("นับถือศาสนาพุทธ")
+print("ชอบเตะฟุตบอล")
+print("ชื่อเล่น อะตอม")
+print("ชอบเล่นเกมส์")
+#รชต หงษ์กระโทก ม.6/11
